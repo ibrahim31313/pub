@@ -174,7 +174,7 @@ body {
         gap: calc(var(--nav-gap) / 2);
         opacity: 0;
         transition: opacity var(--primary-transition);
-        z-index: 5;
+        z-index: 15;
     }
     .header .container nav > .ul.active {
         opacity: 1;
