@@ -238,7 +238,7 @@ body {
 .home .container .left-content {
     display: flex;
     flex-direction: column;
-    z-index: 10;
+    z-index: 3;
 }
 .home .container .left-content h2 {
     font-family: var(--secondary-ff);
