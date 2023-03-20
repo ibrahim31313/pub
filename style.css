@@ -86,8 +86,10 @@ body {
     position: relative;
 }
 .header .container .logo {
+    
     height: var(--header-height);
     display: flex;
+    flex: 1;
     flex-direction: row;
     align-items: center;
     gap: var(--primary-padding);
