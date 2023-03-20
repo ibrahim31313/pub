@@ -101,6 +101,7 @@ body {
     font-size: var(--fs-logo);
     font-weight: var(--fw-semi-bold);
     color: var(--primary-color-500);
+    width: 200px;
 }
 .header .container nav > .ul {
     display: flex;
